@@ -13,4 +13,4 @@ function altCaps(str){
 }
 
 console.log(altCaps("When you visit Portland you have to go to VooDoo Donuts"));
-console.log(altCaps("I'm so happy it's Monday"))
+console.log(altCaps("I'm so happy it's Monday"))``
